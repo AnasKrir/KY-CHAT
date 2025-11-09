@@ -156,7 +156,7 @@ python manage.py runserver
 
 | Login | Room         | 
 |-------|--------------|
-| ![](docs/login.png) | ![](docs/room.png) |
+| ![](djangoproject/docs/login.png) | ![](djangoproject/docs/room.png) |
 
 ---
 
