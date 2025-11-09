@@ -1,0 +1,31 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+*.egg
+.env
+.env.*
+
+# Environnement / IDE
+.vscode/
+.env
+venv1/
+.venv1/
+
+# Django
+db.sqlite3
+/staticfiles/
+/media/
+
+# Migrations compilées (on garde les .py, pas les .pyc)
+/**/migrations/__pycache__/
+
+# SQLite browser files
+*.sqbpro
+
+# Mac
+.DS_Store
